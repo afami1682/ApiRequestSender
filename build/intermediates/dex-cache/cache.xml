@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/h.takahashi/Documents/Develop/Android/ApiRequestSender/app/libs/commons-net-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b71de00508dcb078d2b24b5fa7e538636de9b3da">
+        <dex dex="/Users/h.takahashi/Documents/Develop/Android/ApiRequestSender/app/build/intermediates/pre-dexed/debug/commons-net-3.6_c7bbedaa23c7ef6ed73411f26c8d2e18e27c3df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/h.takahashi/Documents/Develop/Android/ApiRequestSender/app/libs/commons-net-examples-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d66546454f7fcec996296bbe8d709851fddf0c81">
+        <dex dex="/Users/h.takahashi/Documents/Develop/Android/ApiRequestSender/app/build/intermediates/pre-dexed/debug/commons-net-examples-3.6_a025319ed5e76a7ceafcfd7cc0f343796ed03344.jar" />
+    </item>
+
+</items>
