@@ -1,0 +1,3 @@
+.idea/workspace.xml
+app/src/main/java/jp/morijyobi/apirequestsender/api/ApiConfig.java
+app/src/main/java/jp/morijyobi/apirequestsender/ftp/FTPConfig.java
