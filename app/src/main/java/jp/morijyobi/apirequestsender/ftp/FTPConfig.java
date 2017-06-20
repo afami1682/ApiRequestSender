@@ -5,13 +5,13 @@ package jp.morijyobi.apirequestsender.ftp;
  */
 
 public class FTPConfig {
-    public static String HOST = "";
-    public static String REMOTE_DIR = "";
+    public static String HOST = "morijyobi.sakura.ne.jp";
+    public static String REMOTE_DIR = "/home/morijyobi/www/upload";
     public static String ENCODE_TYPE = "UTF-8";
 
     interface AUTH_USER {
-        String NAME = "";
-        String PASSWORD = "";
+        String NAME = "morijyobi";
+        String PASSWORD = "xkz2hruuzp";
     }
 
     // FTP通信の間隔（連打防止）

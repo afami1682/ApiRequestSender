@@ -1,3 +1,5 @@
+.DS_Store
 .idea/workspace.xml
+api/ApiConfig.java
+ftp/FTPConfig.java
 app/src/main/java/jp/morijyobi/apirequestsender/api/ApiConfig.java
-app/src/main/java/jp/morijyobi/apirequestsender/ftp/FTPConfig.java
